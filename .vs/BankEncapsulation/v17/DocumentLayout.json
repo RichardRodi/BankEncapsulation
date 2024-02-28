@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rich Rodi\\Desktop\\repos\\BankEncapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|c:\\users\\rich rodi\\desktop\\repos\\bankencapsulation\\bankencapsulation\\system\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|solutionrelative:bankencapsulation\\system\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|c:\\users\\rich rodi\\desktop\\repos\\bankencapsulation\\bankencapsulation\\system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|solutionrelative:bankencapsulation\\system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|c:\\users\\rich rodi\\desktop\\repos\\bankencapsulation\\bankencapsulation\\printings\\printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|solutionrelative:bankencapsulation\\printings\\printing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Printing.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\Printings\\Printing.cs",
+              "RelativeDocumentMoniker": "BankEncapsulation\\Printings\\Printing.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\Printings\\Printing.cs",
+              "RelativeToolTip": "BankEncapsulation\\Printings\\Printing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:44:59.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATM.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\System\\ATM.cs",
+              "RelativeDocumentMoniker": "BankEncapsulation\\System\\ATM.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\System\\ATM.cs*",
+              "RelativeToolTip": "BankEncapsulation\\System\\ATM.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:02:13.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\System\\Program.cs",
+              "RelativeDocumentMoniker": "BankEncapsulation\\System\\Program.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\System\\Program.cs",
+              "RelativeToolTip": "BankEncapsulation\\System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:02:07.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
